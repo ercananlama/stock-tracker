@@ -1,0 +1,11 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.alignCenter {
+  text-align: center;
+  vertical-align: middle;
+}
